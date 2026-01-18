@@ -35,8 +35,9 @@ Transitioning from IT Technical Support to Game QA. Strengths: Troubleshooting, 
   Hide until ready
   - ISTQB CTFL 4.0: Studying Fundamentals
   - uTest Academy: Completed [badge]
-  - Google Agile: Completed [badge]
+  - Google Agile Essentials: Completed [badge]
   - Qase Academy: Completed [badge]
+  - Guru99 Mobile Testing Project: Completed [badge]
 -->
 
 ⭐ Star this repo to support!
