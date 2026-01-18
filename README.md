@@ -1,11 +1,11 @@
 # QA Portfolio Hub [Quest2Test]
 
-**Technical Support Engineer → Junior Game QA** | Cannes, FR | PlayTestCloud Tester | <!-- ISTQB CTFL 4.0 Prep -->
+**Technical Support Engineer → Junior Game QA** | UK/FR | PlayTestCloud Tester | <!-- ISTQB CTFL 4.0 Prep -->
 
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Profile Views](https://komarev.com/ghpvc/?username=Quest2Teste&color=green)](https://github.com/Quest2Test/Quest2Test)
 
-[! TIP]
+[!TIP]
 > 💡 Choose your language / Choisissez votre langue:
 >
 > - 🇬🇧 [English](./README.md)
