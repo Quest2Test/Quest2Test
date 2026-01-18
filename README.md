@@ -5,14 +5,14 @@
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Profile Views](https://komarev.com/ghpvc/?username=Quest2Teste&color=green)](https://github.com/Quest2Test/Quest2Test)
 
-[!TIP]
+[! TIP]
 > 💡 Choose your language / Choisissez votre langue:
 >
 > - 🇬🇧 [English](./README.md)
 > - 🇫🇷 [Français](./README.fr.md)
 
-> - ## 📋 About Me
-Transitioning from IT Technical Support to Game QA. Strengths: Troubleshooting, detail-oriented issue resolution, hands-on testing across devices. Passion: video games, Photography, building QA skills for studios. [memory:69][memory:36]
+## 📋 About Me
+Transitioning from IT Technical Support to Game QA. Strengths: Troubleshooting, detail-oriented issue resolution, hands-on testing across devices. Passion: video games, Photography, building QA skills for studios.
 
 ## 🛠️ Skills & Tools
 - **Manual QA**: Test cases, bug reporting, exploratory testing, regression checklists
