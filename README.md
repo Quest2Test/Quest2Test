@@ -5,7 +5,7 @@
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Profile Views](https://komarev.com/ghpvc/?username=Quest2Teste&color=green)](https://github.com/Quest2Test/Quest2Test)
 
-[!TIP]
+> [!TIP]
 > 💡 Choose your language / Choisissez votre langue:
 >
 > - 🇬🇧 [English](./README.md)
