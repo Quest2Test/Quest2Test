@@ -31,10 +31,11 @@ Transitioning from IT Technical Support to Game QA. Strengths: Troubleshooting, 
 </details>
 
 ## 📚 Certifications & Learning
+  - Notion Academy Essentials  (https://img.shields.io/badge/Notion-Essentials-red.svg)](http://verify.skilljar.com/c/vegd25d6gfws)  
 <!--
   Hide until ready
   - ISTQB CTFL 4.0: Studying Fundamentals
-  - uTest Academy: Completed [badge]
+  - uTest Academy: Completed [ba
   - Google Agile Essentials: Completed [badge]
   - Qase Academy: Completed [badge]
   - Guru99 Mobile Testing Project: Completed [badge]
