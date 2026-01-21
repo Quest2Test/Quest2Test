@@ -31,7 +31,7 @@ Transitioning from IT Technical Support to Game QA. Strengths: Troubleshooting, 
 </details>
 
 ## 📚 Certifications & Learning
-  - Notion Academy Essentials  (https://img.shields.io/badge/Notion-Essentials-red.svg)](http://verify.skilljar.com/c/vegd25d6gfws)  
+  - Notion Academy Essentials  [![Notion Essentials](https://img.shields.io/badge/Notion-Essentials-red.svg)](http://verify.skilljar.com/c/vegd25d6gfws) 
 <!--
   Hide until ready
   - ISTQB CTFL 4.0: Studying Fundamentals
