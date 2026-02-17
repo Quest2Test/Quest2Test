@@ -35,8 +35,19 @@ Count increments correctly (1→2 etc.) across Pack Opening/Pack review/CardDex,
 **Attachments:**
 
   Screenshots/Video:
-  
-  ![Pack Opening glitch (-1 count)](IOS_PO_01.png)  
-  ![Pack Review page (1 count)](IOS_PO_03.png)  
-  ![CardDex correct (3 count)](IOS_PO_07.png) 
+
+<table>
+  <tr>
+    <td>
+      <img src="IOS_PO_01.PNG" alt="Pack Opening glitch (-1 count)" width="260">
+    </td>
+    <td>
+      <img src="IOS_PO_03.PNG" alt="Pack Review page (1 count)" width="260">
+    </td>
+    <td>
+      <img src="IOS_PO_07.PNG" alt="CardDex correct (3 count)" width="260">
+    </td>
+  </tr>
+</table>
+
 
