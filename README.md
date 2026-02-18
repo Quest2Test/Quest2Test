@@ -32,8 +32,8 @@ Transitioning from IT Technical Support to QA Engineer. Strengths: Troubleshooti
 
 ## 📚 Certifications & Learning
   - Notion Academy Essentials  [![Notion Essentials](https://img.shields.io/badge/Notion-Essentials-red.svg)](http://verify.skilljar.com/c/vegd25d6gfws)
-  - Fundamentals of Testing with TestRail  [![TestRails Fundamentals](https://img.shields.io/badge/TestRails-Fundamentals-green.svg)]
-  - Asana Foundations Skill Badge  [![Asana Fundamentals](https://img.shields.io/badge/Asana-Fundamentals-orange.svg)]
+  - Fundamentals of Testing with TestRail  ![TestRails Fundamentals](https://img.shields.io/badge/TestRails-Fundamentals-green.svg)
+  - Asana Foundations Skill Badge  ![Asana Fundamentals](https://img.shields.io/badge/Asana-Fundamentals-orange.svg)
 <!--
   Hide until ready
   - ISTQB CTFL 4.0: Studying Fundamentals
