@@ -14,6 +14,8 @@
 ## 📋 About Me
 Transitioning from IT Technical Support to QA Engineer. Strengths: Troubleshooting, detail-oriented issue resolution, hands-on testing across devices. Passion: video games, Photography, building on my QA skills.
 
+Games I've played: [Backloggd](https://backloggd.com/u/Quest2Test/)
+
 ## 🛠️ Skills & Tools
 - **Manual QA**: Test cases, bug reporting, exploratory testing, regression checklists
 - **Platforms**: Android, iOS, Windows PC, Consoles
