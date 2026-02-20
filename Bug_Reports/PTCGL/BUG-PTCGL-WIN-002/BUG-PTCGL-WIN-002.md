@@ -45,10 +45,11 @@ After changing avatar gender, the avatar’s hair changes to white and loses all
       <img src="WIN_UC_03.png" alt="Hair after on home screen" width="260">
     </td>
     <td>
-      <img src="WIN_UC_04.mp4" alt="Video of bug" width="260">
-    </td>
-    <td>
       <img src="WIN_UC_05.png" alt="White Hair for comparison" width="260">
     </td>
   </tr>
 </table>
+
+https://github.com/user-attachments/assets/cfa06ed7-aa88-4a0c-b917-6486f41e35dd
+
+
