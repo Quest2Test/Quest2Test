@@ -38,10 +38,10 @@ After scrolling past these tiers and then back again, the thumbnails load and di
 <table>
   <tr>
     <td>
-      <img src="WIN_BP_01.PNG" alt="Images not loaded" width="260">
+      <img src="WIN_BP_01.png" alt="Images not loaded" width="260">
     </td>
     <td>
-      <img src="WIN_BP_02.PNG" alt="Images loaded" width="260">
+      <img src="WIN_BP_02.png" alt="Images loaded" width="260">
     </td>
   </tr>
 </table>
