@@ -1,4 +1,4 @@
-## Bug ID: `BUG_LOLTFT_IOS_001`
+## Bug ID: `BUG_TFT_IOS_001`
 
 **Title:** UI Issue: Shop gold amount covered by a persistent '0'.
 
