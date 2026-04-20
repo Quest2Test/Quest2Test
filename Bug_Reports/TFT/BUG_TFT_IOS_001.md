@@ -82,16 +82,16 @@ An overlapping Gold icon and '0' graphic load in immediately and persistently co
 <table>
   <tr>
     <td>
-      <img src="LOLTFT_IOS_001_01.PNG" alt="Initial Game Start" width="260">
+      <img src="TFT_IOS_001_01.PNG" alt="Initial Game Start" width="260">
     </td>
     <td>
-      <img src="LOLTFT_IOS_001_02.PNG" alt="Late Game" width="260">
+      <img src="TFT_IOS_001_02.PNG" alt="Late Game" width="260">
     </td>
     <td>
-      <img src="LOLTFT_IOS_001_03.PNG" alt="Shop Open" width="260">
+      <img src="TFT_IOS_001_03.PNG" alt="Shop Open" width="260">
     </td>
     <td>
-      <img src="LOLTFT_IOS_001_04.PNG" alt="Graves Armory Store" width="260">
+      <img src="TFT_IOS_001_04.PNG" alt="Graves Armory Store" width="260">
     </td>
   </tr>
 </table>
