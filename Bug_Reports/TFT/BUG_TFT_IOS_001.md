@@ -6,7 +6,7 @@
 
 **Date:** 18-04-2026
 
-**Status:** `Open`
+**Status:** `Closed`
 
 **Assigned To:** TFT Team
 
@@ -70,8 +70,11 @@ An overlapping Gold icon and '0' graphic load in immediately and persistently co
 
 ## Workaround
 
-- **Workaround available?** No
-- **Description:** 
+- **Workaround available?** Yes
+- **Description:** The frozen UI can be clear with Graves Armory Upgrade Shop Appearance.
+1.  Ensure Graves (5 Star unit) is on your active team.
+2.  Wait for his Armory Upgrade shop to trigger.
+3.  Interacting with/closing this shop forces a UI refresh, removing the stuck overlay.
 
 ---
 
