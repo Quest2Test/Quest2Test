@@ -94,10 +94,6 @@ When the character sits in the chair, the autopilot sign becomes unreadable due 
   </tr>
 </table>
 
-
-https://github.com/user-attachments/assets/668df558-c5b9-4a22-bbba-6f393c138190
-
-
 - **Logs / Console Output:**
 
 ---
