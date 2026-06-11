@@ -88,13 +88,13 @@ The door does not move; the character walks directly through the solid door.
 <table>
   <tr>
     <td>
-      <img src="BHR_WIN_001_01.PNG" alt="Jetts Toilet Door" width="260">
+      <img src="BHR_WIN_001_01.png" alt="Jetts Toilet Door" width="260">
     </td>
     <td>
-      <img src="BHR_WIN_001_02.PNG" alt="Hospital Doors" width="260">
+      <img src="BHR_WIN_001_02.png" alt="Hospital Doors" width="260">
     </td>
     <td>
-      <img src="BHR_WIN_001_03.PNG" alt="Airplane Toilet Door" width="260">
+      <img src="BHR_WIN_001_03.png" alt="Airplane Toilet Door" width="260">
     </td>
   </tr>
 </table>
