@@ -94,6 +94,8 @@ Lightbulb images appear from quite a far distance inside the cafeteria and audit
   </tr>
 </table>
 
+https://github.com/user-attachments/assets/3495f5fd-6de5-48dc-8687-f58cdb48e935
+
 - **Logs / Console Output:**
 
 ---
