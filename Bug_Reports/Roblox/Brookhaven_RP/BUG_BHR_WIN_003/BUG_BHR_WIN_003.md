@@ -1,3 +1,8 @@
+
+
+https://github.com/user-attachments/assets/da9660fb-7846-47f5-bbb7-56d1c4abd114
+
+
 ## Bug ID: `BUG_BHR_WIN_003`
 
 **Title:** Gameplay Issue: Interactive Football stand does not allow character to pick up ball to play
@@ -86,6 +91,8 @@ When attempting to interact with the stand, nothing happens.
     </td>
   </tr>
 </table>
+
+https://github.com/user-attachments/assets/ae0538d2-69ce-4196-9558-45f1e748e383
 
 - **Logs / Console Output:**
 
