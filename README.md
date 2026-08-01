@@ -12,7 +12,9 @@
 > - 🇫🇷 [Français](./README.fr.md)
 
 ## 📋 About Me
-Transitioning from IT Technical Support to QA Engineer. Strengths: Troubleshooting, detail-oriented issue resolution, hands-on testing across devices. Passion: video games, Photography, building on my QA skills.
+IT Support professional with hands-on experience across applications support, ISO-audited processes, and structured troubleshooting, now building on that foundation with QA testing skills. Comfortable owning a problem end-to-end: diagnosing root cause, working with vendors and stakeholders to fix it, and documenting it so the next person doesn't have to start from scratch.
+
+Strengths: troubleshooting, structured investigation, detail-oriented issue resolution, hands-on testing across devices. Outside of work: video games, photography, and building on both my IT and QA skill sets.
 
 Games I've played: [Backloggd](https://backloggd.com/u/Quest2Test/)
 
